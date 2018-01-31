@@ -7,7 +7,7 @@
 EAPI=6
 inherit git-r3
 
-DESCRIPTION="Funtoo bootsplash for fbcondecor"
+DESCRIPTION="Funtoo bootsplash for fbcondecor in 1366x768 resolution"
 HOMEPAGE="https://github.com/jblaiseg/fbcondecor-funtoo-logo"
 EGIT_REPO_URI="https://github.com/jblaiseg/funtoo-bootsplash.git"
 
