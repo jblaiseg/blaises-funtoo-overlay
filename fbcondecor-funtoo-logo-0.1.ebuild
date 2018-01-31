@@ -16,7 +16,7 @@ SLOT="0"
 KEYWORDS="~alpha ~amd64 ~arm ~hppa ~ia64 ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86"
 IUSE=""
 
-DEPEND="media-gfx/splashutils"
+DEPEND="media-gfx/splashutils[fbcondecor]"
 RDEPEND="${DEPEND}"
 
 RESTRICT="binchecks strip"
