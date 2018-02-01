@@ -9,7 +9,7 @@ inherit git-r3
 
 DESCRIPTION="Funtoo bootsplash for fbcondecor in 1366x768 resolution"
 HOMEPAGE="https://github.com/jblaiseg/fbcondecor-funtoo-logo"
-EGIT_REPO_URI="https://github.com/jblaiseg/funtoo-bootsplash.git"
+EGIT_REPO_URI="https://github.com/jblaiseg/fbcondecor-funtoo-logo.git"
 
 LICENSE="freedist"
 SLOT="0"
